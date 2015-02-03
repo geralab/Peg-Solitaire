@@ -1,0 +1,10 @@
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\obj\x86\Debug\Peg Solitaire.csprojResolveAssemblyReference.cache
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\bin\x86\Debug\Peg Solitaire.exe
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\bin\x86\Debug\Peg Solitaire.pdb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\obj\x86\Debug\Peg Solitaire.exe
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\obj\x86\Debug\Peg Solitaire.pdb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\bin\x86\Debug\Content\Images\Marbles.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\bin\x86\Debug\Content\Images\Lost.xnb
+C:\Users\Gerald Alston Blake\Start\College\MySyncUPFiles\OSU\Video Game Design\Peg Solitaire\Peg Solitaire\Peg Solitaire\bin\x86\Debug\Content\Images\Won Image.xnb
